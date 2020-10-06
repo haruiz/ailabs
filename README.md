@@ -14,6 +14,6 @@ We will go through  simple examples with two popular Python modules: Pandas and 
 ### Lab 3. Machine Learning (30 minutes)
 We will learn to use scikit-learn for linear regression and classification applications.
 
-### Lab IV. Deep Learning (30 minutes)
+### Lab 4. Deep Learning (30 minutes)
 We will learn how to use Keras to create and train a  simple image classification model with deep neural network (DNN).
 
