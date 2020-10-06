@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/jtao/ailabs/blob/master/images/ailabs.png" alt="AI Labs"/>
 </p>
+
 # AI Labs
 A set of Jupyter Notebooks to get a new user started with his/her machine learning projects on [Texas A&M High Performance Research Computing](https://hprc.tamu.edu/) systems. There are totally four labs.
 
