@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jtao/ailabs/blob/master/images/ailabs.png" alt="AI Labs"/>
+  <img src="https://github.com/jtao/ailabs/blob/master/images/ailabs.svg" alt="AI Labs"/>
 </p>
 
 # AI Tech Labs
